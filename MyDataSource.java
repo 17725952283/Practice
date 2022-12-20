@@ -1,4 +1,4 @@
-package LeetCode.ywf.JavaCourseDesign;
+package com.ywf.JavaCourseDesign;
 
 import javax.sql.DataSource;
 import java.io.PrintWriter;
