@@ -1,4 +1,4 @@
-package LeetCode.ywf.JavaCourseDesign;
+package com.ywf.JavaCourseDesign;
 
 import java.sql.SQLException;
 import java.util.Scanner;
